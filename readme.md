@@ -1,5 +1,4 @@
-<br>
-
+<img src="https://user-images.githubusercontent.com/55188975/188269448-41cfbc15-8afa-4ae5-8e05-2e185ef4c15d.png" width="3%"> &nbsp; <img src="https://img.icons8.com/officel/344/php-logo.png" width="3.5%"/> &nbsp; <img src="https://img.icons8.com/ios-filled/344/solidity.png" width="4%"/> &nbsp; <img src="https://img.icons8.com/color/344/javascript--v1.png" width="3.5%"/> &nbsp; <img src="https://img.icons8.com/color/344/css3.png" width="3.5%"/><br>
 ![Most Used Languages](https://raw.githubusercontent.com/threej-in/github-stats-transparent/output/generated/languages.svg)![Stats Overview](https://raw.githubusercontent.com/threej-in/github-stats-transparent/output/generated/overview.svg)
 
 #### 📫 Connect with me:
