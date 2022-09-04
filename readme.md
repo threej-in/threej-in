@@ -1,5 +1,6 @@
 <img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> &nbsp; <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" height="20"/> &nbsp; <img src="https://raw.githubusercontent.com/github/explore/ba9de12f88fd08825c51928e91f1678cb5c94b26/topics/solidity/solidity.png" height="20"/> &nbsp; <img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> &nbsp; <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="20"/><br>
 ![Most Used Languages](https://raw.githubusercontent.com/threej-in/github-stats-transparent/output/generated/languages.svg)![Stats Overview](https://raw.githubusercontent.com/threej-in/github-stats-transparent/output/generated/overview.svg)
+<img  src="https://github-readme-stats.vercel.app/api?username=nishikantaray&count_private=true&show_icons=true&theme=radical" />
 
 #### 📫 Connect with me:
   
