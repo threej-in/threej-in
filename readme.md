@@ -71,8 +71,8 @@
 <br />
 <h2 align="center"> 📊 Github stats </h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="threej-in's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=threej-in&show_icons=true&include_all_commits=true&count_private=true&theme=monokai&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" width="49%" /></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="threej-in's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=threej-in&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px" width="49%" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="threej-in's Github Stats" src="https://github-readme-stats-threej-in.vercel.app/api/?username=threej-in&show_icons=true&include_all_commits=true&count_private=true&theme=monokai&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" width="49%" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="threej-in's Top Languages" src="https://github-readme-stats-threej-in.vercel.app/api/top-langs/?icon_color=F8D866&layout=compact&langs_count=8&bg_color=1F222E&hide_border=true&title_color=F85D7F&username=threej-in&theme=react&hide=Hack" height="192px" width="49%" /></a>
 
 <br>
 <details align="center">
