@@ -88,3 +88,6 @@
 - [Jobs retweeter](https://twitter.com/jobs3j)
 - [Telegram chats manager bot](https://telegram.me/threej_bot)
 - [Facebook buddy chrome extension](https://github.com/threej-in/Facebook-buddy)
+
+<br />
+<pre align="center"><h2>"Life is for living not for winning"</h2></pre>
