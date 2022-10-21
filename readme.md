@@ -83,10 +83,11 @@
     <br>
 </details>
 <br />
-<h2 align="center"> 🛠 My projects </h2>
+<h2 align="center"> My projects </h2>
 
-- [Jobs retweeter](https://twitter.com/jobs3j)
-- [Telegram chats manager bot](https://telegram.me/threej_bot)
+- [Telegram promotion bot](https://github.com/threej-digitals/threej_bot)
+- [Telegram sticker search bot](https://github.com/threej-digitals/Telegram-sticker-search-bot)
+- [Twitter jobs retweeter](https://twitter.com/jobs3j)
 - [Facebook buddy chrome extension](https://github.com/threej-in/Facebook-buddy)
 
 <br />
